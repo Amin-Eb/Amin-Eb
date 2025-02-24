@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amin-Eb
-- 👀 I’m interested in c++,python and stickers!
+- 👀 I’m interested in c++ and OS things ...
 - 🌱 I’m currently learning anything i can find! :)
 - 📫 How to reach me : mohamadaminebadi08@gmail.com
 
