@@ -1,1 +1,1 @@
-Intrested in c++, C and OS related stuff!
+Intrested in Rust, C and OS related stuff! (ex cpp fan)
